@@ -1,0 +1,23 @@
+== Day 17
+
+This solution is written in python.
+We use pipenv for dependency-management.
+
+Run using:
+
+```
+$ pipenv install
+$ pipenv shell
+$ python solution.py
+```
+The task is to simulate a cellular automaton in 3d.
+
+=== First Star
+
+We know that the boot-process is 6 cycles,
+so the state after 6 cycles will fit into a box of lengths 20x20x13
+(the input is 8x8x1 boxes and in each cycle the structure can grow by 1 in each dimension (positively and negatively)).
+
+
+=== Second Star
+

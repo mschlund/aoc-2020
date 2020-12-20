@@ -1,0 +1,17 @@
+== Day 20
+
+This solution is written in python.
+We use pipenv for dependency-management.
+
+Run using:
+```
+$ pipenv install
+$ pipenv shell
+$ python solution.py
+```
+
+=== First Star
+
+
+=== Second Star
+
